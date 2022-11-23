@@ -35,4 +35,8 @@
         LOCAL_DB_PASSWORD=(senha do servidor de banco de dados instalado)
           
       9° - Execute o comando no mesmo local: "npm run dev".
-      10° - Aguarde a abertura do servidor Backend no seu terminal para começar a testar através de softwares como Insomnia ou Postman.
+      10° - Aguarde a abertura do servidor Backend no seu terminal para acessar a seguinte URL no seu navegador: http://localhost:3345/docs e começar a testar as rotas através da interface gerada pela biblioteca Swagger.
+
+      11° - A página que deverá ser exibida para você é a seguinte: <img src="./mdAssets/greenpointsmdexample.png">
+
+      ### - Muito obrigado pela boa vontade!
