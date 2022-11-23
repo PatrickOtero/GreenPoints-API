@@ -8,7 +8,7 @@
 
 #### Para saber mais:
 
-- Encontrei um serviço gratuíto para hospedar minhas APIs e até agora não encontrei nenhuma limitação com o tempo de uso destes serviços. Espero que esse serviço permaneça gratuíto por muito tempo. O link para acessar a interface Swagger da API com as rotas documentadas é esta: https://real-pink-gazelle-wear.cyclic.app/docs/
+- Encontrei um serviço gratuíto para hospedar minhas APIs e até agora não encontrei nenhuma limitação com o tempo de uso destes serviços. Espero que esse serviço permaneça gratuíto por muito tempo. O link para acessar a interface Swagger da API com as rotas documentadas é esta: https://jade-famous-sea-lion.cyclic.app/docs/
 
 ---
 
