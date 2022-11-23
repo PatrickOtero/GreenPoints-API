@@ -6,7 +6,7 @@
 
 ### API desenvolvida durante evento da ProviHack 2022 - Não existe planeta B.
 
-#### Para saber mais:
+#### Para testar em servidor online:
 
 - Encontrei um serviço gratuíto para hospedar minhas APIs e até agora não encontrei nenhuma limitação com o tempo de uso destes serviços. Espero que esse serviço permaneça gratuíto por muito tempo. O link para acessar a interface Swagger da API com as rotas documentadas é esta: https://jade-famous-sea-lion.cyclic.app/docs/
 
@@ -19,7 +19,7 @@
 - Bibliotecas principais:
   > Express.js, Node-postgres (pg), Knex.js, Nodemailer.js, Bcrypt, Jsonwebtoken e Yup.
 
- #### - O que precisa ser feito para que a api funcione?
+ #### - O que precisa ser feito para que a api funcione localmente?
  
       1° - Baixe a engine (motor) que interpretará as funcionalidades das dependências em javascript, o Node, através deste link: https://nodejs.org/en/download/
       2° - Selecione o instalador de acordo com o seu sistema operacional e arquitetura (32-bit ou 64-bit)
